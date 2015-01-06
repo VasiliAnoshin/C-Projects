@@ -1,0 +1,10 @@
+==========================Exercise Checking Report========================== 
+Exercise No...........: 3 
+First Student Details.: 321464935 - Vasili Anoshin 
+Second Student Details: 326958568 - Lilia Khanukova 
+Delivery Date.........: 14 - May - 2014 
+Delivered In Delay....: Yes
+Delay Reason..........: ----------------
+Visual Studio Version.: 2013
+Comments..............: No comments 
+========================End Exercise Checking Report========================
