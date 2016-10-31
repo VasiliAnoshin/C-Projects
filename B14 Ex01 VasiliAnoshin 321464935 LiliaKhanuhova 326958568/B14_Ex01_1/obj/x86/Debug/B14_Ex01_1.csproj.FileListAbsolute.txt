@@ -1,5 +1,0 @@
-E:\Studies\Herceliya\Shana bet\C#\C# Targil1\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14_Ex01_1\bin\Debug\B14_Ex01_1.exe
-E:\Studies\Herceliya\Shana bet\C#\C# Targil1\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14_Ex01_1\bin\Debug\B14_Ex01_1.pdb
-E:\Studies\Herceliya\Shana bet\C#\C# Targil1\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14_Ex01_1\obj\x86\Debug\B14_Ex01_1.csprojResolveAssemblyReference.cache
-E:\Studies\Herceliya\Shana bet\C#\C# Targil1\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14_Ex01_1\obj\x86\Debug\B14_Ex01_1.exe
-E:\Studies\Herceliya\Shana bet\C#\C# Targil1\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14_Ex01_1\obj\x86\Debug\B14_Ex01_1.pdb

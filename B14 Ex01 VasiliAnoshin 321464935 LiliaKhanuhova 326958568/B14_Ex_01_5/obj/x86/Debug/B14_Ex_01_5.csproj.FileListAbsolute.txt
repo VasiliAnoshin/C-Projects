@@ -1,4 +1,0 @@
-E:\Studies\Herceliya\Shana bet\C#\C# Targil1\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14_Ex_01_5\bin\Debug\B14_Ex_01_5.exe
-E:\Studies\Herceliya\Shana bet\C#\C# Targil1\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14_Ex_01_5\bin\Debug\B14_Ex_01_5.pdb
-E:\Studies\Herceliya\Shana bet\C#\C# Targil1\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14_Ex_01_5\obj\x86\Debug\B14_Ex_01_5.exe
-E:\Studies\Herceliya\Shana bet\C#\C# Targil1\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14 Ex01 VasiliAnoshin 321464935 LiliaKhanuhova 326958568\B14_Ex_01_5\obj\x86\Debug\B14_Ex_01_5.pdb
