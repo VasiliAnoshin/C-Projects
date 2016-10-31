@@ -1,0 +1,7 @@
+E:\Studies\Herceliya\Shana bet\C#\C# Targil2\B14 Ex02 VasiliAnoshin 321464935 LiliaKhanukova 326958568\B14 Ex02 VasiliAnoshin 321464935 LiliaKhanukova 326958568\B14_Ex02\obj\x86\Debug\B14_Ex02.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-sharp-Projects\Exercise 2\B14 Ex02 VasiliAnoshin 321464935 LiliaKhanukova 326958568\B14_Ex02\bin\Debug\B14_Ex02.exe
+C:\Users\User\Documents\GitHub\C-sharp-Projects\Exercise 2\B14 Ex02 VasiliAnoshin 321464935 LiliaKhanukova 326958568\B14_Ex02\bin\Debug\B14_Ex02.pdb
+C:\Users\User\Documents\GitHub\C-sharp-Projects\Exercise 2\B14 Ex02 VasiliAnoshin 321464935 LiliaKhanukova 326958568\B14_Ex02\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\User\Documents\GitHub\C-sharp-Projects\Exercise 2\B14 Ex02 VasiliAnoshin 321464935 LiliaKhanukova 326958568\B14_Ex02\obj\x86\Debug\B14_Ex02.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-sharp-Projects\Exercise 2\B14 Ex02 VasiliAnoshin 321464935 LiliaKhanukova 326958568\B14_Ex02\obj\x86\Debug\B14_Ex02.exe
+C:\Users\User\Documents\GitHub\C-sharp-Projects\Exercise 2\B14 Ex02 VasiliAnoshin 321464935 LiliaKhanukova 326958568\B14_Ex02\obj\x86\Debug\B14_Ex02.pdb
